@@ -17,6 +17,7 @@ load("hero", "hero.html");
 load("about", "about.html");
 load("skills", "skills.html");
 load("contact", "contact.html");
+load("project", "project.html");
 
 // Smooth scroll
 document.documentElement.style.scrollBehavior = "smooth";
